@@ -22,6 +22,8 @@
 
 - I am a great sales Person.
 
+- Listed my Projects in index.html
+
 # Devops-Week1
 
 # weekproject
