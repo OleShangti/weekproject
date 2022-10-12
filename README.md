@@ -20,8 +20,6 @@
 
 - I am also a trained fire marshal and first aider.
 
-- I Love playing football games and watching them too.
-
 - I am a great sales Person.
 
 # Devops-Week1
