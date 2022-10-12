@@ -20,6 +20,8 @@
 
 - I am also a trained fire marshal and first aider.
 
+- I Love playing football games and watching them too.
+
 # Devops-Week1
 
 # weekproject
