@@ -21,5 +21,5 @@ body {
 p {
     line-break: normal;
     color-scheme: yellow;
-    font-style: italic;
+    font-style: inherit;
 }
