@@ -1,20 +1,25 @@
 li {
     color: blue;
 }
+
 p {
-    font-size:small;
+    font-size: small;
 }
+
 h1 {
     color: brown;
 }
+
 tr {
     font-style: italic;
 }
+
 body {
     background-color: blueviolet;
 }
+
 p {
     line-break: normal;
-    color: fuchsia;
+    color-scheme: yellow;
     font-style: italic;
 }
