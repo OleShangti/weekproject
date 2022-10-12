@@ -18,6 +18,8 @@
 
 - It is intresting course and it add more knowldge and able to learn new things.
 
+- I am also a trained fire marshal and first aider.
+
 # Devops-Week1
 
 # weekproject
