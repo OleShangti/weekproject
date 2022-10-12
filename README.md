@@ -14,7 +14,12 @@
 
 - The site is deployed at git push -u origin main
 
+- Currently working on DevOps SRE in Moringa School
+
+- It is intresting course and it add more knowldge and able to learn new things.
+
 # Devops-Week1
 
 # weekproject
+
 # weekproject
